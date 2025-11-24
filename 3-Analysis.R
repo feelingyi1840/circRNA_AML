@@ -1,4 +1,5 @@
-###### Differentially expressed circRNAs and pathway enrichment ######
+# Function: Differentially expressed circRNAs and pathway enrichment.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 ##### DESeq2 ######
 library(DESeq2)

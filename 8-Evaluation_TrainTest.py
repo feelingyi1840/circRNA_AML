@@ -1,4 +1,5 @@
-###### Evaluation for different Panels -- Train Test ######
+# Function: Evaluation for different Panels -- Train Test.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 import pandas as pd
 from sklearn.model_selection import train_test_split

@@ -1,4 +1,5 @@
-###### Analysis of different circRNA panels -- Part 2 ######
+# Function: Analysis of different circRNA panels -- Part 2
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 #### Pathway Enrichment ####
 library(org.Hs.eg.db)

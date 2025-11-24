@@ -1,4 +1,5 @@
-###### Radius positioning of circRNA in AML prediction -- Cross Validation ######
+# Function: Radius positioning of circRNA in AML prediction -- Cross Validation.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 import pandas as pd
 import random

@@ -1,4 +1,5 @@
-###### circRNA Panel Selection ######
+# Function: circRNA Panel Selection.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 library(tidyverse)
 library(ggplot2)

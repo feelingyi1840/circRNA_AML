@@ -1,4 +1,5 @@
-###### Analysis of different circRNA panels -- Part 1 ######
+# Function: Analysis of different circRNA panels -- Part 1.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 #### Comparison of correlation coefficients ####
 import pandas as pd

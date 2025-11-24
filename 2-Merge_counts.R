@@ -1,4 +1,5 @@
-###### Merge GSE158596 and GSE149237 ######
+# Function: Merge GSE158596 and GSE149237.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 library(tidyverse)
 

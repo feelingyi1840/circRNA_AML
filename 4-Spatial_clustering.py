@@ -1,4 +1,5 @@
-###### Spatial clustering of circRNA on enriched pathway ######
+# Function: Spatial clustering of circRNA on enriched pathway.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 import pandas as pd
 from sklearn.cluster import KMeans

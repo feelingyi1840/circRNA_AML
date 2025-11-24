@@ -1,4 +1,5 @@
-###### Generate Counts Matrix Based on CIRI2 Results for GSE158596 ######
+# Function:  Generate Counts Matrix Based on CIRI2 Results for GSE158596.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 #---------------------------------------------------------
 library(tidyverse)

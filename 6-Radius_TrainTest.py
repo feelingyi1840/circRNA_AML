@@ -1,4 +1,5 @@
-###### Radius positioning of circRNA in AML prediction -- Train Test ######
+# Function: Radius positioning of circRNA in AML prediction -- Train Test.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 import pandas as pd
 import random

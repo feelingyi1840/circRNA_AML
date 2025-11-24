@@ -1,4 +1,5 @@
-###### Evaluation for different Panels -- Cross Validation ######
+# Function: Evaluation for different Panels -- Cross Validation.
+# Programmer: Zhangli Yuan, Yi Shi, 20251124.
 
 import pandas as pd
 import numpy as np
